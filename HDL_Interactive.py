@@ -1,6 +1,6 @@
 #Headlamp used with angle sensor for interactive adaptive headlights
 #EE Systems Team
-#Tim Medina
+#Tim Medina#
 
 import can
 import can.interfaces
